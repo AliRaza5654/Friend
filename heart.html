@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Heart Animation</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: maroon; /* Background color */
+            overflow: hidden;
+        }
+        canvas {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="heartCanvas"></canvas>
+
+    <script>
+        const canvas = document.getElementById('heartCanvas');
+        const ctx = canvas.getContext('2d');
+
+        // Set canvas size dynamically
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+
+        // Calculate center
+        const centerX = canvas.width / 2;
+        const centerY = canvas.height / 2;
+
+        let baseScale = Math.min(canvas.width, canvas.height) / 25; // Base scale factor
+        let scaleModifier = 0; // Modifier for the heart beat animation
+        let increasing = true; // Animation direction
+
+        // Heart equations
+        function heartA(k) {
+            return 15 * Math.sin(k) ** 3;
+        }
+
+        function heartB(k) {
+            return (
+                12 * Math.cos(k) -
+                5 * Math.cos(2 * k) -
+                2 * Math.cos(3 * k) -
+                Math.cos(4 * k)
+            );
+        }
+
+        // Draw the heart
+        function drawHeart() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            const currentScale = baseScale + scaleModifier;
+
+            ctx.fillStyle = "#f73487"; // Heart color
+            ctx.strokeStyle = "#f73487"; // Heart outline color
+            ctx.lineWidth = 2;
+
+            ctx.beginPath();
+            for (let i = 0; i <= 360; i++) {
+                const k = (i * Math.PI) / 180; // Convert degrees to radians
+                const x = heartA(k) * currentScale + centerX;
+                const y = -heartB(k) * currentScale + centerY;
+
+                if (i === 0) {
+                    ctx.moveTo(x, y);
+                } else {
+                    ctx.lineTo(x, y);
+                }
+            }
+            ctx.closePath();
+            ctx.stroke();
+            ctx.fill();
+
+            // Add text and heart emoji in the center
+            const text = "I LOVE YOU❤️\nMERI PARI WIFEY❤️😘\nMERI PARI JAAN❤️😘\nHUBBY LOVE YOU ALOT❤️";
+            ctx.font = `${baseScale}px Arial`; // Fixed font size
+            ctx.fillStyle = "black";
+            ctx.textAlign = "center";
+            ctx.textBaseline = "middle";
+
+            // Split text into lines and adjust position dynamically
+            const lines = text.split("\n");
+            const lineHeight = baseScale * 1.2; // Line height based on scale
+            lines.forEach((line, index) => {
+                ctx.fillText(
+                    line,
+                    centerX,
+                    centerY - (lines.length / 2 - index) * lineHeight
+                );
+            });
+        }
+
+        // Heartbeat animation
+        function animateHeart() {
+            if (increasing) {
+                scaleModifier += 0.1; // Increase scale modifier
+                if (scaleModifier >= baseScale * 0.1) increasing = false; // Reverse direction
+            } else {
+                scaleModifier -= 0.1; // Decrease scale modifier
+                if (scaleModifier <= 0) increasing = true; // Reverse direction
+            }
+
+            drawHeart();
+            requestAnimationFrame(animateHeart); // Loop animation
+        }
+
+        // Redraw on window resize
+        window.addEventListener('resize', () => {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+            baseScale = Math.min(canvas.width, canvas.height) / 25;
+        });
+
+        // Start the animation
+        animateHeart();
+    </script>
+</body>
+</html>
