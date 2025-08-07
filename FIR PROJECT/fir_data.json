@@ -1,0 +1,1389 @@
+{
+    "63010-4984051-0": [
+        {
+            "fir_number": "2025/LHR/0001",
+            "complainant_name": "Sara",
+            "complainant_father_name": "Javed",
+            "accused_name": "Usman",
+            "accused_father_name": "Hussain",
+            "cnic": "63010-4984051-0",
+            "reason": "Personal dispute leading to physical altercation.",
+            "fir_date": "2025-02-05",
+            "sections": [
+                "3AMLA"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Case ongoing"
+        }
+    ],
+    "76950-5660252-1": [
+        {
+            "fir_number": "2025/LHR/0002",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Akram",
+            "accused_name": "Junaid",
+            "accused_father_name": "Hussain",
+            "cnic": "76950-5660252-1",
+            "reason": "Possession of small quantity of contraband.",
+            "fir_date": "2024-09-01",
+            "sections": [
+                "382",
+                "21ATA",
+                "295A"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Case dismissed"
+        },
+        {
+            "fir_number": "2025/LHR/0003",
+            "complainant_name": "Ali",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Fatima",
+            "accused_father_name": "Akram",
+            "cnic": "76950-5660252-1",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2024-10-08",
+            "sections": [
+                "10NAB",
+                "20PECA"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Case dismissed"
+        },
+        {
+            "fir_number": "2025/LHR/0004",
+            "complainant_name": "Sara",
+            "complainant_father_name": "Akram",
+            "accused_name": "Junaid",
+            "accused_father_name": "Javed",
+            "cnic": "76950-5660252-1",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2025-06-04",
+            "sections": [
+                "3PECA",
+                "11WATA"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Case dismissed"
+        }
+    ],
+    "82792-4858981-3": [],
+    "87525-3962237-2": [],
+    "50218-7476726-6": [],
+    "77104-8754822-5": [
+        {
+            "fir_number": "2025/LHR/0005",
+            "complainant_name": "Ayesha",
+            "complainant_father_name": "Khan",
+            "accused_name": "Bilal",
+            "accused_father_name": "Akram",
+            "cnic": "77104-8754822-5",
+            "reason": "Personal dispute leading to physical altercation.",
+            "fir_date": "2025-05-02",
+            "sections": [
+                "10NAB"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Sentenced to 1 year imprisonment"
+        }
+    ],
+    "89347-2458058-4": [
+        {
+            "fir_number": "2025/LHR/0006",
+            "complainant_name": "Ayesha",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Murtaza",
+            "accused_father_name": "Javed",
+            "cnic": "89347-2458058-4",
+            "reason": "Personal dispute leading to physical altercation.",
+            "fir_date": "2025-04-10",
+            "sections": [
+                "37PECA"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Fine imposed"
+        },
+        {
+            "fir_number": "2025/LHR/0007",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Javed",
+            "accused_name": "Usman",
+            "accused_father_name": "Hussain",
+            "cnic": "89347-2458058-4",
+            "reason": "Traffic violation resulting in minor accident.",
+            "fir_date": "2025-01-18",
+            "sections": [
+                "420"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Acquitted"
+        },
+        {
+            "fir_number": "2025/LHR/0008",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Ali",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Muhammad",
+            "cnic": "89347-2458058-4",
+            "reason": "Possession of small quantity of contraband.",
+            "fir_date": "2025-02-20",
+            "sections": [
+                "5PCA",
+                "3PECA"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Community service ordered"
+        }
+    ],
+    "85513-8700549-2": [],
+    "99618-4314622-2": [
+        {
+            "fir_number": "2025/LHR/0009",
+            "complainant_name": "Ali",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Rajjput",
+            "cnic": "99618-4314622-2",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2025-02-10",
+            "sections": [
+                "14PECA"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Case dismissed"
+        },
+        {
+            "fir_number": "2025/LHR/0010",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Asdq",
+            "accused_father_name": "Akram",
+            "cnic": "99618-4314622-2",
+            "reason": "Personal dispute leading to physical altercation.",
+            "fir_date": "2025-05-20",
+            "sections": [
+                "13AO"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Acquitted"
+        }
+    ],
+    "35084-6951977-0": [],
+    "39842-4627610-4": [],
+    "27525-2475133-6": [
+        {
+            "fir_number": "2025/LHR/0011",
+            "complainant_name": "Ahmed",
+            "complainant_father_name": "Javed",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Iqbal",
+            "cnic": "27525-2475133-6",
+            "reason": "Possession of small quantity of contraband.",
+            "fir_date": "2025-07-16",
+            "sections": [
+                "3PECA",
+                "337L(2)"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Case ongoing"
+        }
+    ],
+    "18941-5651678-6": [],
+    "82570-6993797-2": [
+        {
+            "fir_number": "2025/LHR/0012",
+            "complainant_name": "Ali",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Zainab",
+            "accused_father_name": "Muhammad",
+            "cnic": "82570-6993797-2",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2025-03-10",
+            "sections": [
+                "9CNSA"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Fine imposed"
+        },
+        {
+            "fir_number": "2025/LHR/0013",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Iqbal",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Muhammad",
+            "cnic": "82570-6993797-2",
+            "reason": "Unauthorized access to private property.",
+            "fir_date": "2024-11-23",
+            "sections": [
+                "6CNSA",
+                "9NAB"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Acquitted"
+        }
+    ],
+    "73430-2525412-7": [
+        {
+            "fir_number": "2025/LHR/0014",
+            "complainant_name": "Bilal",
+            "complainant_father_name": "Akram",
+            "accused_name": "Sara",
+            "accused_father_name": "Akram",
+            "cnic": "73430-2525412-7",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2024-12-31",
+            "sections": [
+                "9CNSA"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Case ongoing"
+        },
+        {
+            "fir_number": "2025/LHR/0015",
+            "complainant_name": "Sara",
+            "complainant_father_name": "Javed",
+            "accused_name": "Sara",
+            "accused_father_name": "Hussain",
+            "cnic": "73430-2525412-7",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2024-08-21",
+            "sections": [
+                "11WATA",
+                "452",
+                "5PCA"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Fine imposed"
+        },
+        {
+            "fir_number": "2025/LHR/0016",
+            "complainant_name": "Sara",
+            "complainant_father_name": "Akram",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Javed",
+            "cnic": "73430-2525412-7",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2025-03-28",
+            "sections": [
+                "392"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Community service ordered"
+        }
+    ],
+    "82051-7708470-2": [
+        {
+            "fir_number": "2025/LHR/0017",
+            "complainant_name": "Ahmed",
+            "complainant_father_name": "Javed",
+            "accused_name": "Bilal",
+            "accused_father_name": "Javed",
+            "cnic": "82051-7708470-2",
+            "reason": "Unauthorized access to private property.",
+            "fir_date": "2025-01-19",
+            "sections": [
+                "154CrPC"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Case dismissed"
+        },
+        {
+            "fir_number": "2025/LHR/0018",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Iqbal",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Javed",
+            "cnic": "82051-7708470-2",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2024-12-10",
+            "sections": [
+                "420",
+                "295C",
+                "99MVO"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Case ongoing"
+        }
+    ],
+    "31063-9920788-7": [
+        {
+            "fir_number": "2025/LHR/0019",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Akram",
+            "accused_name": "Ali",
+            "accused_father_name": "Muhammad",
+            "cnic": "31063-9920788-7",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2025-07-12",
+            "sections": [
+                "11EATA",
+                "9NAB"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Community service ordered"
+        },
+        {
+            "fir_number": "2025/LHR/0020",
+            "complainant_name": "Ahmed",
+            "complainant_father_name": "Akram",
+            "accused_name": "Fatima",
+            "accused_father_name": "Iqbal",
+            "cnic": "31063-9920788-7",
+            "reason": "Verbal threat and intimidation.",
+            "fir_date": "2025-04-20",
+            "sections": [
+                "173CrPC",
+                "279MVO"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Fine imposed"
+        },
+        {
+            "fir_number": "2025/LHR/0021",
+            "complainant_name": "Ayesha",
+            "complainant_father_name": "Javed",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Muhammad",
+            "cnic": "31063-9920788-7",
+            "reason": "Traffic violation resulting in minor accident.",
+            "fir_date": "2025-02-09",
+            "sections": [
+                "295A",
+                "365"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Case dismissed"
+        }
+    ],
+    "97720-7228534-6": [],
+    "90762-9882907-4": [],
+    "51912-4015688-2": [
+        {
+            "fir_number": "2025/LHR/0022",
+            "complainant_name": "Bilal",
+            "complainant_father_name": "Akram",
+            "accused_name": "Fatima",
+            "accused_father_name": "Iqbal",
+            "cnic": "51912-4015688-2",
+            "reason": "Personal dispute leading to physical altercation.",
+            "fir_date": "2025-02-19",
+            "sections": [
+                "295C",
+                "37PECA"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Community service ordered"
+        },
+        {
+            "fir_number": "2025/LHR/0023",
+            "complainant_name": "Ayesha",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Hussain",
+            "cnic": "51912-4015688-2",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2024-09-27",
+            "sections": [
+                "21PECA",
+                "3MPO"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Case ongoing"
+        },
+        {
+            "fir_number": "2025/LHR/0024",
+            "complainant_name": "Ayesha",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Usman",
+            "accused_father_name": "Akram",
+            "cnic": "51912-4015688-2",
+            "reason": "Personal dispute leading to physical altercation.",
+            "fir_date": "2024-12-09",
+            "sections": [
+                "3MPO",
+                "11WATA"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Case ongoing"
+        }
+    ],
+    "83729-8506863-6": [
+        {
+            "fir_number": "2025/LHR/0025",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Javed",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Javed",
+            "cnic": "83729-8506863-6",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2025-06-27",
+            "sections": [
+                "14PECA"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Sentenced to 1 year imprisonment"
+        },
+        {
+            "fir_number": "2025/LHR/0026",
+            "complainant_name": "Sara",
+            "complainant_father_name": "Javed",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Javed",
+            "cnic": "83729-8506863-6",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2024-10-20",
+            "sections": [
+                "21ATA",
+                "4PECA"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Sentenced to 1 year imprisonment"
+        },
+        {
+            "fir_number": "2025/LHR/0027",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Ali",
+            "accused_father_name": "Javed",
+            "cnic": "83729-8506863-6",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2024-12-04",
+            "sections": [
+                "298C",
+                "295A"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Acquitted"
+        }
+    ],
+    "33894-2995534-4": [
+        {
+            "fir_number": "2025/LHR/0028",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Akram",
+            "cnic": "33894-2995534-4",
+            "reason": "Unauthorized access to private property.",
+            "fir_date": "2025-03-05",
+            "sections": [
+                "3MPO"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Case dismissed"
+        },
+        {
+            "fir_number": "2025/LHR/0029",
+            "complainant_name": "Sara",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Fatima",
+            "accused_father_name": "Hussain",
+            "cnic": "33894-2995534-4",
+            "reason": "Possession of small quantity of contraband.",
+            "fir_date": "2025-06-14",
+            "sections": [
+                "156CA"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Acquitted"
+        },
+        {
+            "fir_number": "2025/LHR/0030",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Akram",
+            "accused_name": "Fatima",
+            "accused_father_name": "Hussain",
+            "cnic": "33894-2995534-4",
+            "reason": "Traffic violation resulting in minor accident.",
+            "fir_date": "2024-08-31",
+            "sections": [
+                "298C",
+                "21ATA",
+                "447"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Fine imposed"
+        }
+    ],
+    "97084-4708612-7": [
+        {
+            "fir_number": "2025/LHR/0031",
+            "complainant_name": "Ayesha",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Hussain",
+            "cnic": "97084-4708612-7",
+            "reason": "Verbal threat and intimidation.",
+            "fir_date": "2025-02-25",
+            "sections": [
+                "9CNSA",
+                "337L(2)",
+                "147"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Fine imposed"
+        }
+    ],
+    "69927-7859176-1": [
+        {
+            "fir_number": "2025/LHR/0032",
+            "complainant_name": "Bilal",
+            "complainant_father_name": "Javed",
+            "accused_name": "Sara",
+            "accused_father_name": "Iqbal",
+            "cnic": "69927-7859176-1",
+            "reason": "Unauthorized access to private property.",
+            "fir_date": "2025-06-28",
+            "sections": [
+                "21ATA",
+                "9NAB"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Case ongoing"
+        },
+        {
+            "fir_number": "2025/LHR/0033",
+            "complainant_name": "Usman",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Fatima",
+            "accused_father_name": "Javed",
+            "cnic": "69927-7859176-1",
+            "reason": "Possession of small quantity of contraband.",
+            "fir_date": "2024-08-18",
+            "sections": [
+                "6ATA",
+                "9CNSA"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Case dismissed"
+        }
+    ],
+    "64418-9238451-2": [
+        {
+            "fir_number": "2025/LHR/0034",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Javed",
+            "accused_name": "Sara",
+            "accused_father_name": "Muhammad",
+            "cnic": "64418-9238451-2",
+            "reason": "Verbal threat and intimidation.",
+            "fir_date": "2024-10-29",
+            "sections": [
+                "506",
+                "3MPO",
+                "452"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Fine imposed"
+        },
+        {
+            "fir_number": "2025/LHR/0035",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Javed",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Hussain",
+            "cnic": "64418-9238451-2",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2024-12-12",
+            "sections": [
+                "61CrPC",
+                "337L(2)"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Acquitted"
+        }
+    ],
+    "41439-7158836-0": [
+        {
+            "fir_number": "2025/LHR/0036",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Akram",
+            "cnic": "41439-7158836-0",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2025-03-15",
+            "sections": [
+                "14FA",
+                "3PECA",
+                "37PECA"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Fine imposed"
+        },
+        {
+            "fir_number": "2025/LHR/0037",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Akram",
+            "accused_name": "Zainab",
+            "accused_father_name": "Javed",
+            "cnic": "41439-7158836-0",
+            "reason": "Verbal threat and intimidation.",
+            "fir_date": "2025-01-29",
+            "sections": [
+                "452"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Acquitted"
+        }
+    ],
+    "95969-5207077-5": [
+        {
+            "fir_number": "2025/LHR/0038",
+            "complainant_name": "Sara",
+            "complainant_father_name": "Iqbal",
+            "accused_name": "Sara",
+            "accused_father_name": "Akram",
+            "cnic": "95969-5207077-5",
+            "reason": "Unauthorized access to private property.",
+            "fir_date": "2024-08-07",
+            "sections": [
+                "9CNSA",
+                "324"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Sentenced to 1 year imprisonment"
+        },
+        {
+            "fir_number": "2025/LHR/0039",
+            "complainant_name": "Ali",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Bilal",
+            "accused_father_name": "Javed",
+            "cnic": "95969-5207077-5",
+            "reason": "Possession of small quantity of contraband.",
+            "fir_date": "2025-06-22",
+            "sections": [
+                "506",
+                "4PECA"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Case ongoing"
+        },
+        {
+            "fir_number": "2025/LHR/0040",
+            "complainant_name": "Ayesha",
+            "complainant_father_name": "Iqbal",
+            "accused_name": "Zainab",
+            "accused_father_name": "Hussain",
+            "cnic": "95969-5207077-5",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2025-06-26",
+            "sections": [
+                "337L(2)"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Sentenced to 1 year imprisonment"
+        }
+    ],
+    "30689-1830583-7": [],
+    "10332-4965698-3": [
+        {
+            "fir_number": "2025/LHR/0041",
+            "complainant_name": "Sara",
+            "complainant_father_name": "Akram",
+            "accused_name": "Sara",
+            "accused_father_name": "Javed",
+            "cnic": "10332-4965698-3",
+            "reason": "Unauthorized access to private property.",
+            "fir_date": "2025-02-27",
+            "sections": [
+                "298C",
+                "337L(2)"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Case dismissed"
+        }
+    ],
+    "61085-5392591-1": [
+        {
+            "fir_number": "2025/LHR/0042",
+            "complainant_name": "Ayesha",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Bilal",
+            "accused_father_name": "Muhammad",
+            "cnic": "61085-5392591-1",
+            "reason": "Unauthorized access to private property.",
+            "fir_date": "2025-02-20",
+            "sections": [
+                "24PECA",
+                "129QSO"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Sentenced to 1 year imprisonment"
+        },
+        {
+            "fir_number": "2025/LHR/0043",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Iqbal",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Iqbal",
+            "cnic": "61085-5392591-1",
+            "reason": "Personal dispute leading to physical altercation.",
+            "fir_date": "2025-03-22",
+            "sections": [
+                "8CNSA"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Acquitted"
+        }
+    ],
+    "74586-1803110-4": [
+        {
+            "fir_number": "2025/LHR/0044",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Iqbal",
+            "cnic": "74586-1803110-4",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2024-10-18",
+            "sections": [
+                "21ATA"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Fine imposed"
+        },
+        {
+            "fir_number": "2025/LHR/0045",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Sara",
+            "accused_father_name": "Akram",
+            "cnic": "74586-1803110-4",
+            "reason": "Possession of small quantity of contraband.",
+            "fir_date": "2025-05-24",
+            "sections": [
+                "4PECA"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Acquitted"
+        },
+        {
+            "fir_number": "2025/LHR/0046",
+            "complainant_name": "Bilal",
+            "complainant_father_name": "Akram",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Hussain",
+            "cnic": "74586-1803110-4",
+            "reason": "Traffic violation resulting in minor accident.",
+            "fir_date": "2025-04-04",
+            "sections": [
+                "3FA"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Case ongoing"
+        }
+    ],
+    "58544-4423730-5": [
+        {
+            "fir_number": "2025/LHR/0047",
+            "complainant_name": "Bilal",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Sara",
+            "accused_father_name": "Muhammad",
+            "cnic": "58544-4423730-5",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2025-03-17",
+            "sections": [
+                "11WATA",
+                "447",
+                "5PCA"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Fine imposed"
+        },
+        {
+            "fir_number": "2025/LHR/0048",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Iqbal",
+            "accused_name": "Usman",
+            "accused_father_name": "Muhammad",
+            "cnic": "58544-4423730-5",
+            "reason": "Verbal threat and intimidation.",
+            "fir_date": "2024-08-13",
+            "sections": [
+                "392",
+                "324"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Case ongoing"
+        }
+    ],
+    "27368-6211965-2": [
+        {
+            "fir_number": "2025/LHR/0049",
+            "complainant_name": "Bilal",
+            "complainant_father_name": "Akram",
+            "accused_name": "Ali",
+            "accused_father_name": "Hussain",
+            "cnic": "27368-6211965-2",
+            "reason": "Traffic violation resulting in minor accident.",
+            "fir_date": "2025-02-10",
+            "sections": [
+                "8CNSA"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Community service ordered"
+        },
+        {
+            "fir_number": "2025/LHR/0050",
+            "complainant_name": "Bilal",
+            "complainant_father_name": "Javed",
+            "accused_name": "Bilal",
+            "accused_father_name": "Javed",
+            "cnic": "27368-6211965-2",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2025-07-10",
+            "sections": [
+                "376",
+                "173CrPC",
+                "337A"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Sentenced to 1 year imprisonment"
+        }
+    ],
+    "36245-4702931-2": [
+        {
+            "fir_number": "2025/LHR/0051",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Akram",
+            "cnic": "36245-4702931-2",
+            "reason": "Possession of small quantity of contraband.",
+            "fir_date": "2025-05-25",
+            "sections": [
+                "6ATA"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Community service ordered"
+        },
+        {
+            "fir_number": "2025/LHR/0052",
+            "complainant_name": "Ahmed",
+            "complainant_father_name": "Javed",
+            "accused_name": "Bilal",
+            "accused_father_name": "Iqbal",
+            "cnic": "36245-4702931-2",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2025-01-20",
+            "sections": [
+                "376",
+                "13AOA"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Case dismissed"
+        },
+        {
+            "fir_number": "2025/LHR/0053",
+            "complainant_name": "Ayesha",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Javed",
+            "cnic": "36245-4702931-2",
+            "reason": "Possession of small quantity of contraband.",
+            "fir_date": "2024-10-14",
+            "sections": [
+                "365",
+                "129QSO",
+                "109"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Case dismissed"
+        }
+    ],
+    "26924-9161676-3": [
+        {
+            "fir_number": "2025/LHR/0054",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Sara",
+            "accused_father_name": "Hussain",
+            "cnic": "26924-9161676-3",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2024-12-30",
+            "sections": [
+                "295A",
+                "9NAB",
+                "302"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Case ongoing"
+        },
+        {
+            "fir_number": "2025/LHR/0055",
+            "complainant_name": "Ahmed",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Sara",
+            "accused_father_name": "Javed",
+            "cnic": "26924-9161676-3",
+            "reason": "Personal dispute leading to physical altercation.",
+            "fir_date": "2024-09-30",
+            "sections": [
+                "8CNSA"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Case dismissed"
+        },
+        {
+            "fir_number": "2025/LHR/0056",
+            "complainant_name": "Ayesha",
+            "complainant_father_name": "Javed",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Muhammad",
+            "cnic": "26924-9161676-3",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2024-08-25",
+            "sections": [
+                "337L(2)",
+                "11WATA"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Community service ordered"
+        }
+    ],
+    "92518-6509383-6": [
+        {
+            "fir_number": "2025/LHR/0057",
+            "complainant_name": "Sara",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Bilal",
+            "accused_father_name": "Akram",
+            "cnic": "92518-6509383-6",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2024-12-24",
+            "sections": [
+                "173CrPC",
+                "298C"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Community service ordered"
+        },
+        {
+            "fir_number": "2025/LHR/0058",
+            "complainant_name": "Usman",
+            "complainant_father_name": "Javed",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Javed",
+            "cnic": "92518-6509383-6",
+            "reason": "Verbal threat and intimidation.",
+            "fir_date": "2025-03-16",
+            "sections": [
+                "447"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Fine imposed"
+        },
+        {
+            "fir_number": "2025/LHR/0059",
+            "complainant_name": "Sara",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Bilal",
+            "accused_father_name": "Muhammad",
+            "cnic": "92518-6509383-6",
+            "reason": "Possession of small quantity of contraband.",
+            "fir_date": "2025-01-25",
+            "sections": [
+                "9NAB",
+                "447",
+                "392"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Case dismissed"
+        }
+    ],
+    "67385-8733665-0": [
+        {
+            "fir_number": "2025/LHR/0060",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Iqbal",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Hussain",
+            "cnic": "67385-8733665-0",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2024-11-28",
+            "sections": [
+                "298C",
+                "13AO"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Fine imposed"
+        },
+        {
+            "fir_number": "2025/LHR/0061",
+            "complainant_name": "Fatima",
+            "complainant_father_name": "Javed",
+            "accused_name": "Sara",
+            "accused_father_name": "Javed",
+            "cnic": "67385-8733665-0",
+            "reason": "Unauthorized access to private property.",
+            "fir_date": "2024-12-07",
+            "sections": [
+                "16MPO",
+                "13AO",
+                "156CA"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Acquitted"
+        },
+        {
+            "fir_number": "2025/LHR/0062",
+            "complainant_name": "Ahmed",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Iqbal",
+            "cnic": "67385-8733665-0",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2025-05-20",
+            "sections": [
+                "3QSO"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Fine imposed"
+        }
+    ],
+    "84813-2677879-0": [
+        {
+            "fir_number": "2025/LHR/0063",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Akram",
+            "accused_name": "Zainab",
+            "accused_father_name": "Akram",
+            "cnic": "84813-2677879-0",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2025-02-23",
+            "sections": [
+                "163QSO",
+                "3MPO"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Case ongoing"
+        },
+        {
+            "fir_number": "2025/LHR/0064",
+            "complainant_name": "Ayesha",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Sara",
+            "accused_father_name": "Javed",
+            "cnic": "84813-2677879-0",
+            "reason": "Verbal threat and intimidation.",
+            "fir_date": "2025-05-11",
+            "sections": [
+                "3FA",
+                "21ATA",
+                "20PECA"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Fine imposed"
+        },
+        {
+            "fir_number": "2025/LHR/0065",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Ali",
+            "accused_father_name": "Hussain",
+            "cnic": "84813-2677879-0",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2025-03-05",
+            "sections": [
+                "37PECA",
+                "5PCA"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Sentenced to 1 year imprisonment"
+        }
+    ],
+    "74338-9922669-5": [
+        {
+            "fir_number": "2025/LHR/0066",
+            "complainant_name": "Ahmed",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Bilal",
+            "accused_father_name": "Akram",
+            "cnic": "74338-9922669-5",
+            "reason": "Traffic violation resulting in minor accident.",
+            "fir_date": "2025-06-16",
+            "sections": [
+                "147"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Case ongoing"
+        }
+    ],
+    "50989-8957231-0": [],
+    "48783-3183544-2": [
+        {
+            "fir_number": "2025/LHR/0067",
+            "complainant_name": "Ali",
+            "complainant_father_name": "Javed",
+            "accused_name": "Fatima",
+            "accused_father_name": "Iqbal",
+            "cnic": "48783-3183544-2",
+            "reason": "Possession of small quantity of contraband.",
+            "fir_date": "2025-06-09",
+            "sections": [
+                "420"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Sentenced to 1 year imprisonment"
+        },
+        {
+            "fir_number": "2025/LHR/0068",
+            "complainant_name": "Ali",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Hussain",
+            "cnic": "48783-3183544-2",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2025-01-03",
+            "sections": [
+                "14PECA",
+                "154CrPC",
+                "11EATA"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Community service ordered"
+        },
+        {
+            "fir_number": "2025/LHR/0069",
+            "complainant_name": "Bilal",
+            "complainant_father_name": "Javed",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Muhammad",
+            "cnic": "48783-3183544-2",
+            "reason": "Traffic violation resulting in minor accident.",
+            "fir_date": "2024-11-24",
+            "sections": [
+                "452",
+                "20PECA"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Acquitted"
+        }
+    ],
+    "17702-2363375-4": [],
+    "48447-6057904-5": [
+        {
+            "fir_number": "2025/LHR/0070",
+            "complainant_name": "Ali",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Iqbal",
+            "cnic": "48447-6057904-5",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2025-06-30",
+            "sections": [
+                "337L(2)",
+                "154CrPC"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Case ongoing"
+        },
+        {
+            "fir_number": "2025/LHR/0071",
+            "complainant_name": "Bilal",
+            "complainant_father_name": "Javed",
+            "accused_name": "Zainab",
+            "accused_father_name": "Iqbal",
+            "cnic": "48447-6057904-5",
+            "reason": "Traffic violation resulting in minor accident.",
+            "fir_date": "2025-04-10",
+            "sections": [
+                "11WATA",
+                "3MPO"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Sentenced to 1 year imprisonment"
+        },
+        {
+            "fir_number": "2025/LHR/0072",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Akram",
+            "cnic": "48447-6057904-5",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2025-05-22",
+            "sections": [
+                "376",
+                "173CrPC"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Fine imposed"
+        }
+    ],
+    "48699-5536786-0": [
+        {
+            "fir_number": "2025/LHR/0073",
+            "complainant_name": "Bilal",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Bilal",
+            "accused_father_name": "Hussain",
+            "cnic": "48699-5536786-0",
+            "reason": "Unauthorized access to private property.",
+            "fir_date": "2025-01-01",
+            "sections": [
+                "295C",
+                "506"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Fine imposed"
+        }
+    ],
+    "62012-6185574-5": [
+        {
+            "fir_number": "2025/LHR/0074",
+            "complainant_name": "Zainab",
+            "complainant_father_name": "Akram",
+            "accused_name": "Bilal",
+            "accused_father_name": "Javed",
+            "cnic": "62012-6185574-5",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2024-12-28",
+            "sections": [
+                "452"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Fine imposed"
+        }
+    ],
+    "78852-7683588-5": [
+        {
+            "fir_number": "2025/LHR/0075",
+            "complainant_name": "Ahmed",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Akram",
+            "cnic": "78852-7683588-5",
+            "reason": "Unauthorized access to private property.",
+            "fir_date": "2024-11-18",
+            "sections": [
+                "3MPO",
+                "3QSO"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Case dismissed"
+        },
+        {
+            "fir_number": "2025/LHR/0076",
+            "complainant_name": "Sara",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Ahmed",
+            "accused_father_name": "Hussain",
+            "cnic": "78852-7683588-5",
+            "reason": "Verbal threat and intimidation.",
+            "fir_date": "2025-01-02",
+            "sections": [
+                "392",
+                "452"
+            ],
+            "bail_status": "Pending",
+            "punishment": "Community service ordered"
+        }
+    ],
+    "95751-5249530-7": [
+        {
+            "fir_number": "2025/LHR/0077",
+            "complainant_name": "Ali",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Bilal",
+            "accused_father_name": "Javed",
+            "cnic": "95751-5249530-7",
+            "reason": "Attempted theft from a convenience store.",
+            "fir_date": "2025-01-31",
+            "sections": [
+                "186"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Sentenced to 1 year imprisonment"
+        },
+        {
+            "fir_number": "2025/LHR/0078",
+            "complainant_name": "Sara",
+            "complainant_father_name": "Iqbal",
+            "accused_name": "Bilal",
+            "accused_father_name": "Akram",
+            "cnic": "95751-5249530-7",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2024-11-25",
+            "sections": [
+                "129QSO",
+                "6ATA",
+                "10NAB"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Case ongoing"
+        }
+    ],
+    "25493-5789757-1": [
+        {
+            "fir_number": "2025/LHR/0079",
+            "complainant_name": "Bilal",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Sara",
+            "accused_father_name": "Akram",
+            "cnic": "25493-5789757-1",
+            "reason": "Verbal threat and intimidation.",
+            "fir_date": "2025-07-22",
+            "sections": [
+                "11WATA"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Sentenced to 1 year imprisonment"
+        }
+    ],
+    "36687-9800771-4": [
+        {
+            "fir_number": "2025/LHR/0080",
+            "complainant_name": "Bilal",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Ayesha",
+            "accused_father_name": "Akram",
+            "cnic": "36687-9800771-4",
+            "reason": "Verbal threat and intimidation.",
+            "fir_date": "2025-04-15",
+            "sections": [
+                "13AOA",
+                "173CrPC"
+            ],
+            "bail_status": "Denied",
+            "punishment": "Acquitted"
+        },
+        {
+            "fir_number": "2025/LHR/0081",
+            "complainant_name": "Ahmed",
+            "complainant_father_name": "Hussain",
+            "accused_name": "Sara",
+            "accused_father_name": "Akram",
+            "cnic": "36687-9800771-4",
+            "reason": "Verbal threat and intimidation.",
+            "fir_date": "2025-02-19",
+            "sections": [
+                "37PECA"
+            ],
+            "bail_status": "Granted",
+            "punishment": "Acquitted"
+        }
+    ],
+    "66574-4057616-3": [
+        {
+            "fir_number": "2025/LHR/0082",
+            "complainant_name": "Ali",
+            "complainant_father_name": "Muhammad",
+            "accused_name": "Zainab",
+            "accused_father_name": "Iqbal",
+            "cnic": "66574-4057616-3",
+            "reason": "Cyberbullying on social media platform.",
+            "fir_date": "2024-08-21",
+            "sections": [
+                "406",
+                "302",
+                "365"
+            ],
+            "bail_status": "N/A",
+            "punishment": "Case ongoing"
+        }
+    ]
+}
